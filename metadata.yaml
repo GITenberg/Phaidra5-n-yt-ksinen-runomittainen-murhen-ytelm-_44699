@@ -1,0 +1,47 @@
+_repo: Phaidra5-n-yt-ksinen-runomittainen-murhen-ytelm-_44699
+_version: 0.1.0
+alternative_title: Phèdre. Finnish
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Lonnbohm, Armas Eino Leopold
+    - Vilkastus, Mikko
+    - Lönnbohm, Armas Einar Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Sepeteus, Kanttori
+    - Leino, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+    - http://en.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Racine, Jean
+    alias: Racine, Jean Baptiste
+    birthdate: 1639
+    deathdate: 1699
+    gutenberg_agent_id: '767'
+    url: http://www.gutenberg.org/2009/agents/767
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Racine
+description: ''
+gutenberg_issued: '2014-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44699'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Phaedra (Greek mythology) -- Drama'
+- !lcsh 'Tragedies'
+title: 'Phaidra: 5-näytöksinen runomittainen murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/44699
